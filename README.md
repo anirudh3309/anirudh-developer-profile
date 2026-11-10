@@ -1,2 +1,1 @@
-# anirudh-developer-profile
-Professional Developer Profile – Anirudh
+# 👨‍💻 ANIRUDH | PYTHON DEVELOPER
